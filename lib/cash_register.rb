@@ -1,1 +1,1 @@
-class Cash 
+class CashRegister 
